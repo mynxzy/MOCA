@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+#wrap{
+    width: 100%;
+    padding: 30px 20px 20px 20px;
+    box-sizing: border-box;
+}
+.title{
+    margin-bottom: 30px;
+}
+.title h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.signForm{
+    text-align: right;
+}
+.signForm p{
+    margin: 20px 0;
+    font-size: 14px;
+}
