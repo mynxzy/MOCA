@@ -13,9 +13,17 @@
     margin-bottom: 20px;
 }
 .signForm{
-    text-align: right;
+    text-align: end;
 }
 .signForm p{
     margin: 20px 0;
     font-size: 14px;
+}
+.signForm label{
+    width: 20%;
+}
+.signForm input{
+    width: 60%;
+    height: 25px;
+    margin-left: 20px;
 }
