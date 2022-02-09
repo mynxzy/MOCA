@@ -18,17 +18,10 @@
     margin: 0 auto;
     text-align: center;
 }
-.signForm p{
-    margin: 30px 0;
-    font-size: 14px;
-    font-weight: 2em;
+.signForm ul{
+    width: 100%;
 }
-.signForm label{
-    width: 10%;
-}
-.signForm input{
-    width: 90%;
-    height: 35px;
-    margin-top: 10px;
-    margin-left: 20px;
+.signForm .box{
+    height: 30px;
+    margin: 10px 0;
 }
