@@ -41,7 +41,7 @@
     font-weight: 500;
 }
 .menu{
-    position: absolute;
+    position: fixed;
     top: 0;
     right: -70%;
     width: 70%;
@@ -82,6 +82,7 @@
     line-height: 60px;
     color: #222;
 }
+
 
 /* 메인 1 */
 .row1{
@@ -151,5 +152,16 @@
     background-image: url(../img/icons8-next-page-50.png);
     background-size: 30px 30px;
     background-repeat: no-repeat;
+    text-indent: -99999px;
+}
+.slick-dots button{
+    position: absolute;
+    bottom: 5px;
+    right: 50%;
+    width: 10px;
+    height: 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #ccc;
     text-indent: -99999px;
 }
