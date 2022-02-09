@@ -6,6 +6,6 @@ var u_nick = document.getElementById('nickName');
 var u_addr = document.getElementById('address');
 var u_email = document.getElementById('email');
 
-function pw(){
-
+function sign(){
+    
 }
