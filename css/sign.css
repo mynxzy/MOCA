@@ -21,7 +21,24 @@
 .signForm ul{
     width: 100%;
 }
+.signForm li{
+    text-align: right;
+}
+.signForm li span{
+    display:inline-block;
+    line-height: 50px;
+    margin-right: 15px;
+}
 .signForm .box{
+    width: 75%;
     height: 30px;
-    margin: 10px 0;
+    margin: 15px 0;
+}
+.signChk{
+    margin: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    color: #fff;
+    background-color: #444;
 }
