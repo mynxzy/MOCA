@@ -12,13 +12,12 @@
 }
 .title p{
     position: absolute;
-    bottom: 0;
+    bottom: -10px;
     right: 0;
 }
 .title p a{
     color: #222;
 }
-
 /* 회원가입 */
 .title{
     margin-bottom: 30px;
