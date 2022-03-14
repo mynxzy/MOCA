@@ -7,7 +7,7 @@
     position: relative;
     width: 100%;
     margin-bottom: 10px;
-    background-color: rgb(218, 198, 187);
+    /* background-color: rgb(218, 198, 187); */
     padding: 10px 10px 17px 10px;
     box-sizing: border-box;
 }
@@ -28,17 +28,6 @@
     width: 30px;
     font-size: 11px;
     margin-top: -5px;
-}
-.headerIn .placeImg{
-    width: 25px;
-    margin-right: 10px;
-}
-.headerIn .place a{
-    display: flex;
-    align-items: center;
-    width: 80px;
-    line-height: 30px;
-    font-weight: 500;
 }
 .menu{
     position: fixed;
@@ -108,7 +97,7 @@
 .row2 h2{
     margin-bottom: 20px;
     padding: 0 10px;
-    color: rgb(151, 129, 117);
+    /* color: rgb(151, 129, 117); */
 }
 .row2 ul{
     width: 100%;
